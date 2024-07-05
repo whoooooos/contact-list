@@ -37,7 +37,6 @@
             android:id="@+id/person_name_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Ivan Esguerra"
             android:textSize="25sp"
             android:textColor="?android:attr/textColorPrimary"
             app:layout_constraintTop_toTopOf="parent"
