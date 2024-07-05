@@ -29,8 +29,7 @@
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintLeft_toLeftOf="parent"
-                android:src="@mipmap/ic_launcher" />
+                app:layout_constraintLeft_toLeftOf="parent" />
         </androidx.cardview.widget.CardView>
 
         <TextView
